@@ -1,0 +1,10 @@
+D:\clessons\Paint\Paint\bin\Debug\Paint.exe.config
+D:\clessons\Paint\Paint\bin\Debug\Paint.exe
+D:\clessons\Paint\Paint\bin\Debug\Paint.pdb
+D:\clessons\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\clessons\Paint\Paint\obj\Debug\Paint.paint.resources
+D:\clessons\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\clessons\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\clessons\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\clessons\Paint\Paint\obj\Debug\Paint.exe
+D:\clessons\Paint\Paint\obj\Debug\Paint.pdb
